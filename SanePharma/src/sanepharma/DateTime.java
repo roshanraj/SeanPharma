@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 public class DateTime implements Runnable 
 {
-
+//jlkj
 	JLabel datetimeL;
 	static String datetime;
 	static String datetimec;
